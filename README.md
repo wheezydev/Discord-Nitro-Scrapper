@@ -1,2 +1,2 @@
-# Discord-2FA-Bypass
-2FA CODE BYPASS
+# Discord Nitro Scrapper Developed by wheezy
+Discord Nitro Scrapper
