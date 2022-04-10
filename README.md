@@ -1,2 +1,2 @@
-# Discord Nitro Scrapper Developed by wheezy
-Discord Nitro Scrapper
+# Discord Nitro Scrapper
+Discord Nitro Scrapper Developed by wheezy
